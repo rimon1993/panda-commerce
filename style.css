@@ -33,3 +33,34 @@ h1 {
     cursor: pointer;
 
 }
+
+.cat1{
+
+    background-color: orangered;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+
+.cat2 {
+
+    background-color: palevioletred;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+
+.cat3 {
+
+    background-color: palegreen ;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+
+.categories h1 {
+
+    color: white;
+}
+
+.categories img {
+
+    width: 100px;
+}
