@@ -64,3 +64,23 @@ h1 {
 
     width: 100px;
 }
+
+.card{
+
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+#ContactUs{
+
+    height: 300px;
+}
+
+#ContactUs h6{
+    color: gray;
+}
+
+footer{
+
+    text-align: center;
+}
